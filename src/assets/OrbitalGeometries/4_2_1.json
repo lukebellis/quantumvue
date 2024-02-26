@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 2,
+      "m_l": 1
+    },
+    "description": "4d orbital, characterized by a complex cloverleaf shape, typically oriented with respect to the x or y axis",
+    "shape": "complex cloverleaf",
+    "orientation": "x or y axis",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "varies",
+        "description": "Nodal planes that divide the orbital into lobes, orientation depends on the specific 4d orbital"
+      },
+      {
+        "type": "radial",
+        "radius": "varies",
+        "description": "Radial nodes indicating regions of zero electron probability at certain distances from the nucleus"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#ffcc66",
+      "opacity": 0.5,
+      "nodeColor": "#ffffff",
+      "nodeOpacity": 0.5
+    }
+  }
+  

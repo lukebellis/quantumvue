@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 3,
+      "l": 2,
+      "m_l": 1
+    },
+    "description": "3d orbital with lobes oriented along the xz or yz plane",
+    "shape": "lobed",
+    "orientation": "xz or yz plane",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "xy plane",
+        "description": "Nodal plane where the probability of finding an electron is zero"
+      },
+      {
+        "type": "planar",
+        "orientation": "vertical to the lobes",
+        "description": "Additional nodal plane perpendicular to the lobe orientation"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#6495ed",
+      "opacity": 0.5,
+      "nodeColor": "#a9a9a9",
+      "nodeOpacity": 0.5
+    }
+  }
+  

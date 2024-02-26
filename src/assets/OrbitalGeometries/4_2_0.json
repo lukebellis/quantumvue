@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 2,
+      "m_l": 0
+    },
+    "description": "4d orbital, characterized by a cloverleaf shape with a donut-shaped ring in the middle plane and oriented along the z-axis",
+    "shape": "cloverleaf with central donut",
+    "orientation": "z-axis",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "xy-plane",
+        "description": "Nodal plane at the nucleus dividing the lobes and the donut ring"
+      },
+      {
+        "type": "radial",
+        "radius": 2,
+        "description": "Radial nodes indicating regions of zero electron probability at specific distances from the nucleus"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#66ccff",
+      "opacity": 0.5,
+      "nodeColor": "#ffffff",
+      "nodeOpacity": 0.5
+    }
+  }
+  

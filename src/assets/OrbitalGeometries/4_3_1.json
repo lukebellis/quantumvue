@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 3,
+      "m_l": 1
+    },
+    "description": "A 4f orbital characterized by complex, asymmetrical lobes due to its magnetic quantum number, m_l = 1, indicating a unique orientation.",
+    "shape": "asymmetrical lobed structure",
+    "orientation": "asymmetrical arrangement with respect to the nucleus, indicating directional electron probability distribution",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "asymmetrically oriented planes through the nucleus",
+        "description": "Planar nodes creating distinct, asymmetrical lobes, reflecting the m_l = 1 influence on electron distribution."
+      },
+      {
+        "type": "radial",
+        "radius": "varies",
+        "description": "Radial nodes that define regions of zero electron probability, highlighting the unique radial distribution characteristic of 4f orbitals."
+      }
+    ],
+    "visualizationHints": {
+      "color": "#7f7fbf",
+      "opacity": 0.6,
+      "nodeColor": "#555555",
+      "nodeOpacity": 0.5
+    }
+  }
+  

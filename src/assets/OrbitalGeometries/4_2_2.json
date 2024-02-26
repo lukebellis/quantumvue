@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 2,
+      "m_l": 2
+    },
+    "description": "One of the 4d orbitals with a unique lobe structure, often associated with more complex nodal patterns.",
+    "shape": "complex lobed structure",
+    "orientation": "specific to the 4d orbital with m_l = 2, possibly along two orthogonal axes or diagonal",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "specific, based on the complex lobe arrangement",
+        "description": "Nodal planes that are uniquely arranged to divide the orbital into multiple lobes, indicative of the complex electron probability distribution in this orbital"
+      },
+      {
+        "type": "radial",
+        "radius": "varies",
+        "description": "Radial nodes indicating regions of zero electron probability at certain distances from the nucleus, characteristic of the 4d orbital's electron distribution"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#99ccff",
+      "opacity": 0.5,
+      "nodeColor": "#000000",
+      "nodeOpacity": 0.5
+    }
+  }
+  

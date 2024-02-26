@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 3,
+      "l": 0,
+      "m_l": 0
+    },
+    "description": "3s orbital, spherical with two nodal spheres",
+    "shape": "spherical",
+    "radius": 3,
+    "nodes": [
+      {
+        "type": "spherical",
+        "radius": 1,
+        "description": "Inner nodal sphere"
+      },
+      {
+        "type": "spherical",
+        "radius": 2,
+        "description": "Outer nodal sphere"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#0000ff",
+      "opacity": 0.5,
+      "nodeColor": "#ffffff",
+      "nodeOpacity": 0.5
+    }
+  }
+  

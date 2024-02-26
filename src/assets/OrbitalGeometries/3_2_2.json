@@ -1,0 +1,24 @@
+{
+    "quantumNumbers": {
+      "n": 3,
+      "l": 2,
+      "m_l": 2
+    },
+    "description": "3d orbital with lobes oriented along or between the Cartesian axes, characteristic of the dxy or dx^2-y^2 types",
+    "shape": "lobed",
+    "orientation": "plane or axes specific",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "xy plane",
+        "description": "Nodal plane where the probability of finding an electron is zero, characteristic of the symmetry of the d orbitals"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#ff8c00",
+      "opacity": 0.5,
+      "nodeColor": "#d3d3d3",
+      "nodeOpacity": 0.5
+    }
+  }
+  

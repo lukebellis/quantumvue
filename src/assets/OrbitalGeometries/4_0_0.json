@@ -1,0 +1,33 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 0,
+      "m_l": 0
+    },
+    "description": "4s orbital, spherical with three nodal surfaces",
+    "shape": "spherical",
+    "nodes": [
+      {
+        "type": "spherical",
+        "radius": 1,
+        "description": "First nodal sphere closest to the nucleus"
+      },
+      {
+        "type": "spherical",
+        "radius": 2,
+        "description": "Second nodal sphere"
+      },
+      {
+        "type": "spherical",
+        "radius": 3,
+        "description": "Third nodal sphere, furthest from the nucleus"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#8a2be2",
+      "opacity": 0.5,
+      "nodeColor": "#ffffff",
+      "nodeOpacity": 0.2
+    }
+  }
+  

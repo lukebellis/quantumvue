@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 1,
+      "m_l": 1
+    },
+    "description": "4p orbital, dumbbell-shaped with an additional radial node, oriented along one of the Cartesian axes (x or y)",
+    "shape": "dumbbell",
+    "orientation": "x or y-axis",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "varies depending on x or y orientation",
+        "description": "Nodal plane dividing the lobes perpendicular to the axis of orientation"
+      },
+      {
+        "type": "radial",
+        "radius": 2,
+        "description": "Radial node outside the central lobed region, indicating a region of zero electron probability"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#ff00ff",
+      "opacity": 0.5,
+      "nodeColor": "#ffffff",
+      "nodeOpacity": 0.5
+    }
+  }
+  

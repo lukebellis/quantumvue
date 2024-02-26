@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 3,
+      "m_l": 2
+    },
+    "description": "This 4f orbital is characterized by its complex, clover-shaped lobes with a distinct orientation, defined by the magnetic quantum number m_l = 2. This orientation shows a unique electron probability distribution pattern.",
+    "shape": "complex clover-shaped",
+    "orientation": "unique orientation with distinct electron probability distribution",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "specifically oriented planes through the nucleus",
+        "description": "Planar nodes that segment the orbital into clover-shaped lobes, indicative of the m_l = 2 magnetic quantum number."
+      },
+      {
+        "type": "radial",
+        "radius": "varies",
+        "description": "Radial nodes indicating zones of zero electron probability, characteristic of the 4f orbital's radial distribution."
+      }
+    ],
+    "visualizationHints": {
+      "color": "#8a2be2",
+      "opacity": 0.7,
+      "nodeColor": "#333333",
+      "nodeOpacity": 0.5
+    }
+  }
+  

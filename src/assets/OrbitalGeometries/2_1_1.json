@@ -1,0 +1,36 @@
+{
+    "quantumNumbers": {
+      "n": 2,
+      "l": 1,
+      "m_l": 1
+    },
+    "description": "2p orbital oriented along the x-axis",
+    "shape": "dumbbell",
+    "orientation": "x-axis",
+    "visualizationHints": {
+      "lobes": [
+        {
+          "position": "positive",
+          "shape": "dumbbell-lobe",
+          "center": {"x": 1.5, "y": 0, "z": 0},
+          "radius": 1,
+          "color": "#ff0000",
+          "opacity": 0.5
+        },
+        {
+          "position": "negative",
+          "shape": "dumbbell-lobe",
+          "center": {"x": -1.5, "y": 0, "z": 0},
+          "radius": 1,
+          "color": "#ff0000",
+          "opacity": 0.5
+        }
+      ],
+      "nodePlane": {
+        "orientation": "yz",
+        "color": "#ffffff",
+        "opacity": 0
+      }
+    }
+  }
+  

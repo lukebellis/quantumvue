@@ -1,0 +1,24 @@
+{
+    "quantumNumbers": {
+      "n": 3,
+      "l": 2,
+      "m_l": 0
+    },
+    "description": "3d orbital, cloverleaf shape with a central ring, oriented along the z-axis",
+    "shape": "cloverleaf with central ring",
+    "orientation": "z-axis",
+    "nodes": [
+      {
+        "type": "conical",
+        "orientation": "along z-axis",
+        "description": "Nodal surfaces where the probability of finding an electron is zero"
+      }
+    ],
+    "visualizationHints": {
+      "color": "#ff4500",
+      "opacity": 0.5,
+      "nodeColor": "#ffffff",
+      "nodeOpacity": 0.5
+    }
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "quantumNumbers": {
+      "n": 4,
+      "l": 3,
+      "m_l": 0
+    },
+    "description": "A 4f orbital with symmetrical distribution around the nucleus, featuring complex lobes and nodal structures.",
+    "shape": "complex lobed structure with high symmetry",
+    "orientation": "symmetrical around the nucleus, with distinctive lobes extending outwards",
+    "nodes": [
+      {
+        "type": "planar",
+        "orientation": "multiple, symmetrical planes through the nucleus",
+        "description": "Planar nodes that intersect at the nucleus, dividing the orbital into distinct lobes indicative of the complex electron probability distribution."
+      },
+      {
+        "type": "radial",
+        "radius": "varies",
+        "description": "Radial nodes indicating regions of zero electron probability at specific radii from the nucleus, characteristic of the 4f orbital's distribution."
+      }
+    ],
+    "visualizationHints": {
+      "color": "#b19cd9",
+      "opacity": 0.5,
+      "nodeColor": "#333333",
+      "nodeOpacity": 0.5
+    }
+  }
+  
